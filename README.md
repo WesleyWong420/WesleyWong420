@@ -14,8 +14,8 @@
 
 ### 🏅 Certifications and Achievements
 <a href="https://www.credential.net/df2366a8-5f68-4ce7-8470-80372ba8f484">![CRTP](./icons/crtp.png "CRTP")</a>
-![PNPT](./icons/pnpt.png "PNPT")
-![CRTO](./icons/crto.png "CRTO")
+<a href="https://www.credential.net/a9b4b408-7d22-48ce-8798-dcf106552482#gs.3o6vpp">![PNPT](./icons/pnpt.png "PNPT")</a>
+<a href="https://api.eu.badgr.io/public/assertions/3Ka2penDSCiL-3A3d24oxQ">![CRTO](./icons/crto.png "CRTO")</a>
 
 ### 🖥️ Languages and Tools
 ![Kali Linux](./icons/kalilinux.png "Kali Linux")

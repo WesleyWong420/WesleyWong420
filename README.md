@@ -13,7 +13,7 @@
 <img src="http://www.hackthebox.com/badge/image/684628" alt="Hack The Box Profile"></a>
 
 ### 🏅 Certifications and Achievements
-![CRTP](./icons/crtp.png "CRTP")
+<a href="https://www.credential.net/df2366a8-5f68-4ce7-8470-80372ba8f484">![CRTP](./icons/crtp.png "CRTP")</a>
 ![PNPT](./icons/pnpt.png "PNPT")
 ![CRTO](./icons/crto.png "CRTO")
 

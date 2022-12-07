@@ -12,10 +12,10 @@
 <a title="Hack The Box Profile" href="https://www.hackthebox.eu/profile/684628">
 <img src="http://www.hackthebox.com/badge/image/684628" alt="Hack The Box Profile"></a>
 
-### Some of my intrests
+### Certifications and Achievements
 <!-- 👨‍💻 Hacking and CTFs 🎮 Video games 💻Programming 🎧 Listening to music 📖 Reading books 📺 Anime? -->
-### Languages and Technologies
- 
+
+### Languages and Tools
 ![Kali Linux](./icons/kalilinux.png "Kali Linux")
 ![BurpSuite](./icons/BurpSuite.png "BurpSuite")
 ![IDA](./icons/idapro.png "IDA")
@@ -30,7 +30,6 @@
 ![git](./icons/git.png "git")
 
 ### 📫 Connect with me
-
 [![Linkedin](./icons/linkedin.png)](https://www.linkedin.com/in/wesleywong420/)
 [![CTFtime](./icons/ctftime.png "CTFtime")](https://ctftime.org/user/140889)
 [![Github](./icons/github.png "Github")](https://github.com/WesleyWong420)

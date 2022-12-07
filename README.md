@@ -5,7 +5,7 @@
 <p align='center'>Cybersecurity Student | Red Teamer | Pentester | CTF Player</p>
 
 <div align='center'>
-<h4>My Hack The Box Profile</h4>
+<h4>Hack The Box Profile</h4>
 <a title="Hack The Box Profile" href="https://www.hackthebox.eu/profile/684628">
 <img src="http://www.hackthebox.com/badge/image/684628" alt="Hack The Box Profile"></a>
 <h4>Try Hack Me Profile</h4>
@@ -14,8 +14,8 @@
 
 ### Some of my intrests
 <!-- 👨‍💻 Hacking and CTFs 🎮 Video games 💻Programming 🎧 Listening to music 📖 Reading books 📺 Anime? -->
-  
 ### Languages and Technologies
+ 
 ![Python](./icons/python.png "Python")
 ![git](./icons/git.png "git")
 ![C](./icons/c.png "C")

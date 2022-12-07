@@ -13,7 +13,9 @@
 <img src="http://www.hackthebox.com/badge/image/684628" alt="Hack The Box Profile"></a>
 
 ### Certifications and Achievements
-<!-- 👨‍💻 Hacking and CTFs 🎮 Video games 💻Programming 🎧 Listening to music 📖 Reading books 📺 Anime? -->
+![CRTP](./icons/crtp.png "CRTP")
+![PNPT](./icons/pnpt.png "PNPT")
+![CRTO](./icons/crto.png "CRTO")
 
 ### Languages and Tools
 ![Kali Linux](./icons/kalilinux.png "Kali Linux")
@@ -27,6 +29,7 @@
 ![Rust](./icons/rust.png "Rust")
 ![C](./icons/c.png "C")
 ![C++](./icons/cpp.png "C++")
+![PowerShell](./icons/powershell.png "PowerShell")
 ![VScode](./icons/vscode.png "VScode")
 ![Docker](./icons/docker.png "Docker")
 <!-- ![git](./icons/git.png "git") -->

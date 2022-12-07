@@ -35,7 +35,7 @@
 <!-- ![git](./icons/git.png "git") -->
 
 ### 📫 Connect with me
-[![Linkedin](./icons/linkedin.png)](https://www.linkedin.com/in/wesleywong420/)
+[![Linkedin](./icons/linkedin.png)](https://linkedin.com/in/wesleywong420/)
 [![CTFtime](./icons/ctftime.png "CTFtime")](https://ctftime.org/user/114852)
 [![Github](./icons/github.png "Github")](https://github.com/WesleyWong420)
 [![Discord](./icons/discord.png "Discord")](http://discordapp.com/users/265481821142122517)

@@ -16,9 +16,9 @@
 <!-- 👨‍💻 Hacking and CTFs 🎮 Video games 💻Programming 🎧 Listening to music 📖 Reading books 📺 Anime? -->
 
 ### Languages and Tools
-![Cobalt Strike](./icons/cobaltstrike.png "Cobalt Strike")
 ![Kali Linux](./icons/kalilinux.png "Kali Linux")
 ![BurpSuite](./icons/BurpSuite.png "BurpSuite")
+![Cobalt Strike](./icons/cobaltstrike.png "Cobalt Strike")
 ![IDA](./icons/idapro.png "IDA")
 ![Ghidra](./icons/Ghidra.png "Ghidra")
 ![Python](./icons/python.png "Python")
@@ -28,7 +28,7 @@
 ![C++](./icons/cpp.png "C++")
 ![VScode](./icons/vscode.png "VScode")
 ![Docker](./icons/docker.png "Docker")
-![git](./icons/git.png "git")
+<!-- ![git](./icons/git.png "git") -->
 
 ### 📫 Connect with me
 [![Linkedin](./icons/linkedin.png)](https://www.linkedin.com/in/wesleywong420/)

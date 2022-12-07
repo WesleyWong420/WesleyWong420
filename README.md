@@ -16,15 +16,16 @@
 <!-- 👨‍💻 Hacking and CTFs 🎮 Video games 💻Programming 🎧 Listening to music 📖 Reading books 📺 Anime? -->
 
 ### Languages and Tools
+![Cobalt Strike](./icons/cobaltstrike.png "Cobalt Strike")
 ![Kali Linux](./icons/kalilinux.png "Kali Linux")
 ![BurpSuite](./icons/BurpSuite.png "BurpSuite")
 ![IDA](./icons/idapro.png "IDA")
 ![Ghidra](./icons/Ghidra.png "Ghidra")
 ![Python](./icons/python.png "Python")
+![Java](./icons/java.png "Java")
+![Rust](./icons/rust.png "Rust")
 ![C](./icons/c.png "C")
 ![C++](./icons/cpp.png "C++")
-![Rust](./icons/rust.png "Rust")
-![Java](./icons/java.png "Java")
 ![VScode](./icons/vscode.png "VScode")
 ![Docker](./icons/docker.png "Docker")
 ![git](./icons/git.png "git")

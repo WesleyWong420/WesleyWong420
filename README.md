@@ -9,8 +9,7 @@
 <a title="TryHackMe Profile" href="https://tryhackme.com/p/JesusCries">
 <img src="https://tryhackme-badges.s3.amazonaws.com/JesusCries.png" alt="TryHackMe"></a>
 <h4>Hack The Box Profile</h4>
-<a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/684628">
-<img src="http://www.hackthebox.com/badge/image/684628" alt="Hack The Box Profile"></a>
+
 
 ### Certifications and Achievements
 ![CRTP](./icons/crtp.png "CRTP")

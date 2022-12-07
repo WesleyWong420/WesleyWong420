@@ -38,5 +38,3 @@
 [![Discord](./icons/discord.png "Discord")](http://discordapp.com/users/265481821142122517)
 [![Email](./icons/mail.png "Email")](mailto:wesleywongkeehan@gmail.com)
 </div>
-
-<script src="https://tryhackme.com/badge/221800"></script>

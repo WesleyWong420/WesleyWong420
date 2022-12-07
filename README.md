@@ -9,7 +9,7 @@
 <a title="TryHackMe Profile" href="https://tryhackme.com/p/JesusCries">
 <img src="https://tryhackme-badges.s3.amazonaws.com/JesusCries.png" alt="TryHackMe"></a>
 <h4>Hack The Box Profile</h4>
-<img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white">
+<h4><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"></h4>
 <a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/684628">
 <img src="http://www.hackthebox.com/badge/image/684628" alt="Hack The Box Profile"></a>
 

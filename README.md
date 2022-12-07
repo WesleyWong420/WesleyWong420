@@ -16,33 +16,24 @@
 <!-- 👨‍💻 Hacking and CTFs 🎮 Video games 💻Programming 🎧 Listening to music 📖 Reading books 📺 Anime? -->
 ### Languages and Technologies
  
-![Python](./icons/python.png "Python")
-![git](./icons/git.png "git")
-![C](./icons/c.png "C")
-![C++](./icons/cpp.png "C++")
 ![Kali Linux](./icons/kalilinux.png "Kali Linux")
 ![BurpSuite](./icons/BurpSuite.png "BurpSuite")
-![Autopsy](./icons/Autopsy.png "Autopsy")
 ![IDA](./icons/idapro.png "IDA")
 ![Ghidra](./icons/Ghidra.png "Ghidra")
-![NASM](./icons/nasm.png "NASM")
-![Javascript](./icons/javascript.png "Javascript")
-![Golang](./icons/golang.png "Golang")
-![Pycharm](./icons/pycharm.png "Pycharm")
+![Python](./icons/python.png "Python")
+![C](./icons/c.png "C")
+![C++](./icons/cpp.png "C++")
 ![Rust](./icons/rust.png "Rust")
 ![Java](./icons/java.png "Java")
-![Docker](./icons/docker.png "Docker")
-![mysql](./icons/mysql.png "mysql")
-![Microsoft Office](./icons/office.png "Microsoft Office")
 ![VScode](./icons/vscode.png "VScode")
-![PHP](./icons/php.png "PHP")
+![Docker](./icons/docker.png "Docker")
+![git](./icons/git.png "git")
 
-### 📫 How to reach me
+### 📫 Connect with me
 
 [![Linkedin](./icons/linkedin.png)](https://www.linkedin.com/in/wesleywong420/)
 [![CTFtime](./icons/ctftime.png "CTFtime")](https://ctftime.org/user/140889)
 [![Github](./icons/github.png "Github")](https://github.com/WesleyWong420)
 [![Discord](./icons/discord.png "Discord")](http://discordapp.com/users/265481821142122517)
 [![Email](./icons/mail.png "Email")](mailto:wesleywongkeehan@gmail.com)
-
 </div>

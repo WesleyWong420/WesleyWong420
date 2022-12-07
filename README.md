@@ -12,12 +12,12 @@
 <a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/684628">
 <img src="http://www.hackthebox.com/badge/image/684628" alt="Hack The Box Profile"></a>
 
-### Certifications and Achievements
+### 🏅 Certifications and Achievements
 ![CRTP](./icons/crtp.png "CRTP")
 ![PNPT](./icons/pnpt.png "PNPT")
 ![CRTO](./icons/crto.png "CRTO")
 
-### Languages and Tools
+### 🖥️ Languages and Tools
 ![Kali Linux](./icons/kalilinux.png "Kali Linux")
 ![Ghidra](./icons/Ghidra.png "Ghidra")
 ![BinaryNinja](./icons/binaryninja.png "BinaryNinja")

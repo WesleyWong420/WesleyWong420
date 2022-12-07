@@ -46,4 +46,5 @@
 ### 📈 Statistics
 <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=WesleyWong420&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WesleyWong420&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WesleyWong420&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" />
 </div>

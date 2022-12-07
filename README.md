@@ -17,10 +17,10 @@
 
 ### Languages and Tools
 ![Kali Linux](./icons/kalilinux.png "Kali Linux")
-![BurpSuite](./icons/BurpSuite.png "BurpSuite")
 ![Cobalt Strike](./icons/cobaltstrike.png "Cobalt Strike")
 ![IDA](./icons/idapro.png "IDA")
 ![Ghidra](./icons/Ghidra.png "Ghidra")
+ ![BurpSuite](./icons/BurpSuite.png "BurpSuite")
 ![Python](./icons/python.png "Python")
 ![Java](./icons/java.png "Java")
 ![Rust](./icons/rust.png "Rust")

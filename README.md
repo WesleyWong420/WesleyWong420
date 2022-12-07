@@ -8,7 +8,6 @@
 <h4>TryHackMe Profile</h4>
 <a title="TryHackMe Profile" href="https://tryhackme.com/p/JesusCries">
 <img src="https://tryhackme-badges.s3.amazonaws.com/JesusCries.png" alt="TryHackMe"></a>
-<script src="https://tryhackme.com/badge/221800"></script>
 <h4>Hack The Box Profile</h4>
 <a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/684628">
 <img src="http://www.hackthebox.com/badge/image/684628" alt="Hack The Box Profile"></a>
@@ -39,3 +38,5 @@
 [![Discord](./icons/discord.png "Discord")](http://discordapp.com/users/265481821142122517)
 [![Email](./icons/mail.png "Email")](mailto:wesleywongkeehan@gmail.com)
 </div>
+
+<script src="https://tryhackme.com/badge/221800"></script>

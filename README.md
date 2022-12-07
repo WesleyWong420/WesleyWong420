@@ -17,9 +17,10 @@
 
 ### Languages and Tools
 ![Kali Linux](./icons/kalilinux.png "Kali Linux")
+![Ghidra](./icons/Ghidra.png "Ghidra")
+![BinaryNinja](./icons/binaryninja.png "BinaryNinja")
 ![Cobalt Strike](./icons/cobaltstrike.png "Cobalt Strike")
 ![IDA](./icons/idapro.png "IDA")
-![Ghidra](./icons/Ghidra.png "Ghidra")
  ![BurpSuite](./icons/BurpSuite.png "BurpSuite")
 ![Python](./icons/python.png "Python")
 ![Java](./icons/java.png "Java")

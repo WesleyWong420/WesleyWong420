@@ -29,6 +29,7 @@
 ![Rust](./icons/rust.png "Rust")
 ![C](./icons/c.png "C")
 ![C++](./icons/cpp.png "C++")
+![C#](./icons/csharp.png "C#")
 ![PowerShell](./icons/powershell.png "PowerShell")
 ![VScode](./icons/vscode.png "VScode")
 ![Docker](./icons/docker.png "Docker")

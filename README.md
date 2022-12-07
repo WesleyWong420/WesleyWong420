@@ -21,9 +21,9 @@
 ![Kali Linux](./icons/kalilinux.png "Kali Linux")
 ![Ghidra](./icons/Ghidra.png "Ghidra")
 ![BinaryNinja](./icons/binaryninja.png "BinaryNinja")
-![Cobalt Strike](./icons/cobaltstrike.png "Cobalt Strike")
 ![IDA](./icons/idapro.png "IDA")
- ![BurpSuite](./icons/BurpSuite.png "BurpSuite")
+![Cobalt Strike](./icons/cobaltstrike.png "Cobalt Strike")
+![BurpSuite](./icons/BurpSuite.png "BurpSuite")
 ![Python](./icons/python.png "Python")
 ![Java](./icons/java.png "Java")
 ![Rust](./icons/rust.png "Rust")
@@ -33,6 +33,7 @@
 ![PowerShell](./icons/powershell.png "PowerShell")
 ![VScode](./icons/vscode.png "VScode")
 ![Docker](./icons/docker.png "Docker")
+![Bloodhound](./icons/bloodhound.png "Bloodhound")
 <!-- ![git](./icons/git.png "git") -->
 
 ### 📫 Connect with me

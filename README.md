@@ -44,8 +44,7 @@
 [![Email](./icons/mail.png "Email")](mailto:wesleywongkeehan@gmail.com)
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WesleyWong420&show_icons=true&locale=en&layout=compact" alt="d0ublew" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WesleyWong420&show_icons=true&locale=en" alt="d0ublew" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WesleyWong420&" alt="d0ublew" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WesleyWong420&show_icons=true&locale=en&layout=compact" alt="d0ublew" /></p>

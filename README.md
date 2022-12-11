@@ -2,7 +2,7 @@
 
 <h3 align='center'> root@github:~$ whoami </h3>
 
-<p align='center'>Cybersecurity Student | Red Teamer | Pentester | CTF Player</p>
+<p align='center'>Cybersecurity Student | Red Teamer | Penetration Tester | CTF Player</p>
 
 <div align='center'>
 <h4><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></h4>

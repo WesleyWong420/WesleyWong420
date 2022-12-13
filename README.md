@@ -31,7 +31,7 @@
 ![C++](./icons/cpp.png "C++")
 ![C#](./icons/csharp.png "C#")
 ![PowerShell](./icons/powershell.png "PowerShell")
-![VScode](./icons/vscode.png "VScode")
+![VScode](./icons/vscode.png "VScode") 
 ![Docker](./icons/docker.png "Docker")
 ![Bloodhound](./icons/bloodhound.png "Bloodhound")
 <!-- ![git](./icons/git.png "git") -->

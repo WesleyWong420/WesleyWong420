@@ -13,11 +13,11 @@
 <img src="http://www.hackthebox.com/badge/image/684628" alt="Hack The Box Profile"></a>
 
 ### 🏅 Certifications and Achievements
-<a href="https://www.credential.net/df2366a8-5f68-4ce7-8470-80372ba8f484">![CRTP](./icons/crtp.png "CRTP")</a>
-<a href="https://www.credential.net/a9b4b408-7d22-48ce-8798-dcf106552482#gs.3o6vpp">![PNPT](./icons/pnpt.png "PNPT")</a>
+<a href="https://www.credential.net/e868ecb0-e33a-4184-82dc-f959a1a5cf65#gs.6ncstd">![OSCP](./icons/oscp.png "OSCP")</a>
 <a href="https://eu.badgr.com/public/assertions/3Ka2penDSCiL-3A3d24oxQ">![CRTO](./icons/crto.png "CRTO")</a>
 <a href="https://eu.badgr.com/public/assertions/DpIDGaoCSiiayWvbV3edMQ">![CRTL](./icons/crtl.png "CRTL")</a>
-<a href="https://www.credential.net/e868ecb0-e33a-4184-82dc-f959a1a5cf65#gs.6ncstd">![OSCP](./icons/oscp.png "OSCP")</a>
+<a href="https://www.credential.net/df2366a8-5f68-4ce7-8470-80372ba8f484">![CRTP](./icons/crtp.png "CRTP")</a>
+<a href="https://www.credential.net/a9b4b408-7d22-48ce-8798-dcf106552482#gs.3o6vpp">![PNPT](./icons/pnpt.png "PNPT")</a>
 
 ### 🖥️ Languages and Tools
 ![Kali Linux](./icons/kalilinux.png "Kali Linux")
